@@ -41,8 +41,10 @@
 
 <p>
   <a href="https://github.com/Omkargupta001">GitHub</a> |
-  <a href="https://www.linkedin.com/">LinkedIn</a> |
-  <a href="https://leetcode.com/">LeetCode</a>
+  <a href="https://leetcode.com/">LeetCode</a> |
+  <a href="https://linkedin.com/in/omkar-gupta-721003280">LinkedIn</a> |
+  <a href="https://unstop.com/u/omkargup92015">UnStop</a> |
+  <a href="https://www.instagram.com/omka_rbuilds/">Instagram</a>
 </p>
 
 ---
