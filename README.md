@@ -1,16 +1,52 @@
-## Hi there 👋
 
-<!--
-**Omkargupta001/Omkargupta001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Omkar Gupta</h1>
+<h3 align="center">CSE Student | Aspiring Software Developer</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  Passionate about learning technology, solving problems and building practical projects.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Computer Science Engineering student at PSIT, Kanpur
+- 💻 Interested in Software Development and Problem Solving
+- 🌱 Currently learning DSA, Java, SQL and Full Stack Development
+- 🔭 Working on AI-based and web development projects
+- 🎯 Goal: Become a skilled Software Developer
+
+### 🛠️ Languages and Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,html,css,js,react,mysql,git,github,vscode" />
+</p>
+
+### 🚀 Featured Projects
+
+- **RoadGuard AI** – AI-based road hazard detection and mapping.
+- **Personal Portfolio** – A personal website showcasing my skills and projects.
+
+### 📊 GitHub Statistics
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Omkargupta001&show_icons=true&theme=tokyonight" />
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omkargupta001&layout=compact&theme=tokyonight" />
+</p>
+
+### 🤝 Connect With Me
+
+<p>
+  <a href="https://github.com/Omkargupta001">GitHub</a> |
+  <a href="https://www.linkedin.com/">LinkedIn</a> |
+  <a href="https://leetcode.com/">LeetCode</a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile!
+</p>
