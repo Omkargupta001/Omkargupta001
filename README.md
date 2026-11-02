@@ -40,11 +40,11 @@
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/Omkargupta001">GitHub</a> |
-  <a href="https://leetcode.com/">LeetCode</a> |
-  <a href="https://linkedin.com/in/omkar-gupta-721003280">LinkedIn</a> |
-  <a href="https://unstop.com/u/omkargup92015">UnStop</a> |
-  <a href="https://www.instagram.com/omka_rbuilds/">Instagram</a>
+  <a href="https://github.com/Omkargupta001" target="_blank" rel="noopener noreferrer">GitHub</a> |
+  <a href="https://leetcode.com/" target="_blank" rel="noopener noreferrer">LeetCode</a> |
+  <a href="https://linkedin.com/in/omkar-gupta-721003280" target="_blank" rel="noopener noreferrer">LinkedIn</a> |
+  <a href="https://unstop.com/u/omkargup92015" target="_blank" rel="noopener noreferrer">UnStop</a> |
+  <a href="https://www.instagram.com/omka_rbuilds/" target="_blank" rel="noopener noreferrer">Instagram</a>
 </p>
 
 ---
